@@ -2,14 +2,12 @@
 
 He/him
 
-I program as a hobby sometimes. \
-This is a business account, my personal account contains a lot more work. \
+I program as a hobby sometimes. Pretty much everything I've made here is because I thought it might be personally interesting and/or useful in the future. \
+This is a business account, my personal account contains a lot more work. Most of my stuff on here is also private. \
 I primarily use C, C++, Rust, etc, but I've been looking to branch out into Javascript, Typescript, and web stuff. \
-I am experinced in Cybersecurity, and am Security+ certified. \
-I'd be willing to take commissions for programming projects, and deployment on the cheap, as well as free advice. \
-If interested, contact me at akvillavicencio938@gmail.com.
+I am experinced in Cybersecurity. I have Security+ and CCNA.
 
-I support the use of FOSS, primarily use GPLv3, LGPLv3, or MIT licenses for the most part.
+I support the use of FOSS, and primarily use GPLv3, LGPLv3, or MIT licenses for my projects.
 
 ## Languages I know, ranked by experience
 
@@ -20,6 +18,7 @@ I support the use of FOSS, primarily use GPLv3, LGPLv3, or MIT licenses for the 
 5. Javascript
 6. bash/shell
 7. C#
+8. Golang
 
 ## Languages I want to learn
 
@@ -27,4 +26,3 @@ I support the use of FOSS, primarily use GPLv3, LGPLv3, or MIT licenses for the 
 2. Kotlin
 3. Scala
 4. OCaml
-5. Golang

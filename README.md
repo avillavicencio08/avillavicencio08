@@ -1,6 +1,6 @@
-# Hello, I am Antonio
+# Hello, I am T
 
-He/him
+any/all
 
 I program as a hobby sometimes. Pretty much everything I've made here is because I thought it might be personally interesting and/or useful in the future. \
 This is a business account, my personal account contains a lot more work. Most of my stuff on here is also private. \

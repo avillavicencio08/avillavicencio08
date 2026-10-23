@@ -2,10 +2,11 @@
 
 any/all
 
-I program as a hobby sometimes. Pretty much everything I've made here is because I thought it might be personally interesting and/or useful in the future. \
+I program as a hobby sometimes; somehow this has turned into a career in computer science and computer engineering. \
+Pretty much everything I've made here is because I thought it might be personally interesting and/or useful in the future. \
 This is a business account, my personal account contains a lot more work. Most of my stuff on here is also private. \
 I primarily use C, C++, Rust, etc, but I've been looking to branch out into Javascript, Typescript, and web stuff. \
-I am experinced in Cybersecurity. I have Security+ and CCNA.
+I am experinced in Cybersecurity. I am Security+ and CCNA certified, and currently working towards HTB CPTS.
 
 I support the use of FOSS, and primarily use GPLv3, LGPLv3, or MIT licenses for my projects.
 
@@ -17,7 +18,7 @@ I support the use of FOSS, and primarily use GPLv3, LGPLv3, or MIT licenses for 
 4. Python
 5. Javascript
 6. bash/shell
-7. C#
+7. Java
 8. Golang
 
 ## Languages I want to learn
